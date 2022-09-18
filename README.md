@@ -1,2 +1,2 @@
 # risc-sample-code
-ASM
+RISC codes written during the Computer Organization and Assembly Programming course
